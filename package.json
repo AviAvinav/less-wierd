@@ -1,0 +1,22 @@
+{
+  "name": "little-lib",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "ts-node main.ts",
+    "build": "tsc",
+    "prettify": "prettier --write ."
+  },
+  "author": "Avi Avinav <aviavinav2004@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.12.1",
+    "@typescript-eslint/parser": "^5.12.1",
+    "eslint": "^8.10.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}

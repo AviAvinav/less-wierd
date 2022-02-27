@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.lock
+npm-err.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+pnpm-error.log
