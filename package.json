@@ -6,16 +6,19 @@
   "scripts": {
     "dev": "ts-node main.ts",
     "build": "tsc",
+    "bundle": "rollup --config rollup.config.ts --configPlugin typescript",
     "prettify": "prettier --write ."
   },
   "author": "Avi Avinav <aviavinav2004@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.1",
     "@typescript-eslint/eslint-plugin": "^5.12.1",
     "@typescript-eslint/parser": "^5.12.1",
     "eslint": "^8.10.0",
     "nodemon": "^2.0.15",
     "prettier": "^2.5.1",
+    "rollup": "^2.68.0",
     "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
   }
