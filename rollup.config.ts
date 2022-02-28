@@ -9,42 +9,42 @@ export default [
   {
     input: "functions/capitalize.js",
     output: {
-      file: "dist/capitalize.js",
+      file: "dist/functions/capitalize.js",
       format: "cjs",
     },
   },
   {
     input: "functions/generateRandomHex.js",
     output: {
-      file: "dist/generateRandomHex.js",
+      file: "dist/functions/generateRandomHex.js",
       format: "cjs",
     },
   },
   {
     input: "functions/copyToClipboard.js",
     output: {
-      file: "dist/copyToClipboard.js",
+      file: "dist/functions/copyToClipboard.js",
       format: "cjs",
     },
   },
   {
     input: "functions/isDarkMode.js",
     output: {
-      file: "dist/isDarkMode.js",
+      file: "dist/functions/isDarkMode.js",
       format: "cjs",
     },
   },
   {
     input: "functions/scrollToTop.js",
     output: {
-      file: "dist/scrollToTop.js",
+      file: "dist/functions/scrollToTop.js",
       format: "cjs",
     },
   },
   {
     input: "functions/scrollToBottom.js",
     output: {
-      file: "dist/scrollToBottom.js",
+      file: "dist/functions/scrollToBottom.js",
       format: "cjs",
     },
   },
