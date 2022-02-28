@@ -5,4 +5,11 @@ import scrollToBottom from "./functions/scrollToBottom";
 import generateRandomHexColor from "./functions/generateRandomHex";
 import capitalize from "./functions/capitalize";
 
-export { copyToClipboard, isDarkMode, scrollToTop, scrollToBottom, generateRandomHexColor, capitalize };
+export {
+  copyToClipboard,
+  isDarkMode,
+  scrollToTop,
+  scrollToBottom,
+  generateRandomHexColor,
+  capitalize,
+};
