@@ -1,0 +1,3 @@
+rollup.config.ts
+dist/*
+*.js
