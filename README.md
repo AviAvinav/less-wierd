@@ -22,6 +22,14 @@ yarn add less-wierd
 
 ```
 
+or
+
+```bash
+
+pnpm add less-wierd
+
+```
+
 ### Inspiration
 
 I love javascript and many others too, but there are a lot of haters too. People hate javascript because it is "wierd". I want to help make javascript a little easier so that you don't have to write those one-liners again and again.
