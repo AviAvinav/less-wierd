@@ -9,6 +9,11 @@
     "bundle": "rollup --config rollup.config.ts --configPlugin typescript",
     "prettify": "prettier --write ."
   },
+  "homepage": "https://github.com/AviAvinav/less-wierd#readme",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AviAvinav/less-wierd)"
+  },
   "author": "Avi Avinav <aviavinav2004@gmail.com>",
   "license": "MIT",
   "devDependencies": {
