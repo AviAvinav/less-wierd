@@ -1,7 +1,7 @@
 {
   "name": "less-wierd",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.2",
+  "description": "A little library to make javascript less wierd.",
   "main": "main.js",
   "scripts": {
     "dev": "ts-node main.ts",
