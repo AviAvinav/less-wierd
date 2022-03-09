@@ -39,3 +39,11 @@ pnpm add less-wierd
 ## Inspiration
 
 I love javascript and many others too, but there are a lot of haters too. People hate javascript because it is "wierd". I want to help make javascript a little easier so that you don't have to write those one-liners again and again.
+
+## Contributing
+
+I will be writing up the contributing.md in a few days, in the meantime if you wish to open an issue or a pull request you can. Thank you very much
+
+## License
+
+MIT ©️ Avi Avinav
