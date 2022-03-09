@@ -1,50 +1,50 @@
 export default [
   {
-    input: "main.js",
+    input: "src/main.js",
     output: {
       file: "dist/index.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/capitalize.js",
+    input: "src/capitalize.js",
     output: {
-      file: "dist/functions/capitalize.js",
+      file: "dist/capitalize.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/generateRandomHex.js",
+    input: "src/generateRandomHex.js",
     output: {
-      file: "dist/functions/generateRandomHex.js",
+      file: "dist/generateRandomHex.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/copyToClipboard.js",
+    input: "src/copyToClipboard.js",
     output: {
-      file: "dist/functions/copyToClipboard.js",
+      file: "dist/copyToClipboard.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/isDarkMode.js",
+    input: "src/isDarkMode.js",
     output: {
-      file: "dist/functions/isDarkMode.js",
+      file: "dist/isDarkMode.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/scrollToTop.js",
+    input: "src/scrollToTop.js",
     output: {
-      file: "dist/functions/scrollToTop.js",
+      file: "dist/scrollToTop.js",
       format: "cjs",
     },
   },
   {
-    input: "functions/scrollToBottom.js",
+    input: "src/scrollToBottom.js",
     output: {
-      file: "dist/functions/scrollToBottom.js",
+      file: "dist/scrollToBottom.js",
       format: "cjs",
     },
   },
